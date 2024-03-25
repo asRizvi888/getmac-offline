@@ -1,0 +1,26 @@
+{
+  "name": "getmac-offline",
+  "version": "1.0.0",
+  "description": "Get mac address completely offline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asRizvi888/getmac-offline.git"
+  },
+  "author": "asRizvi888",
+  "license": "MIT",
+  "keywords": [
+    "getmac-offline",
+    "getmac",
+    "mac address",
+    "offline mac",
+    "physical address"
+  ],
+  "bugs": {
+    "url": "https://github.com/asRizvi888/getmac-offline/issues"
+  },
+  "homepage": "https://github.com/asRizvi888/getmac-offline#readme"
+}
