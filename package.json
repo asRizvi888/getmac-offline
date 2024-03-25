@@ -17,10 +17,14 @@
     "getmac",
     "mac address",
     "offline mac",
-    "physical address"
+    "physical address",
+    "licensing"
   ],
   "bugs": {
     "url": "https://github.com/asRizvi888/getmac-offline/issues"
   },
-  "homepage": "https://github.com/asRizvi888/getmac-offline#readme"
+  "homepage": "https://github.com/asRizvi888/getmac-offline#readme",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
 }
